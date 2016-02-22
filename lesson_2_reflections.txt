@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, git creates a metadata file that will begin to store all of
 your commits to the involved files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area offers a 'cache' of sorts that allows you to commit only certain files, not necessarily everything
+in the working directory.
