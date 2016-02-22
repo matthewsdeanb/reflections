@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, git creates a metadata file that will begin to store all of
+your commits to the involved files.
