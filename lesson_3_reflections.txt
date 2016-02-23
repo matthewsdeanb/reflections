@@ -1,1 +1,5 @@
 This is a brand new text file for answers to questions asked in Lesson 3.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because you don't want to make untested, buggy code available to others who are collaborating with you, among other reasons.
